@@ -1,4 +1,4 @@
-# Analysis of Traffic Accidents in Los Angeles (2017-2022)
+# Exporatory Data Analysis: LA Car Accidents (2017-2022)
 
 This repository delves into the patterns of car accidents in Los Angeles based on a comprehensive dataset spanning 2017 to 2022. 
 
